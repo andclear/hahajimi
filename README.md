@@ -1,6 +1,4 @@
-title: Lpb-hajimi
-emoji: 🥲
-colorFrom: pink
-colorTo: yellow
-sdk: docker
-pinned: false
+当前最简单的Hajimi轮询部署教程
+此为项目所需Dockerfile存储所用。
+小红书账号：老婆宝
+小红书号:728319402
