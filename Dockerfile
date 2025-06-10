@@ -1,1 +1,1 @@
-FROM ghcr.io/andclear/hajimi:latest
+FROM ghcr.io/wyeeeee/hajimi:latest
